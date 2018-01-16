@@ -21,7 +21,7 @@ Koadic also attempts to be compatible with both Python 2 and Python 3.
 2. Elevates integrity (UAC Bypass)
 3. Dumps SAM/SECURITY hive for passwords
 4. Scans local network for open SMB
-5. Pivots to another machine
+5. Pivots to another machine 
 
 ### Stagers
 Stagers hook target zombies and allow you to use implants.
